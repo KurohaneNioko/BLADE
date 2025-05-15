@@ -1,4 +1,4 @@
 *.ipynb
 */.ipynb_checkpoints
-./model_metadata/*
-!./model_metadata/sample_llm_metadata.json
+model_metadata/*
+!model_metadata/sample_llm_metadata.json
