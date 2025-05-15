@@ -38,7 +38,7 @@ Main Features:
 + KL divergence for sampling codes for prompt.
 + multi process implementation for Generator, Evaluator, CodesDatabase.
 + logging integrated. Evaluated results in `./data/{timestamp}-{exp_name}/results.log`.
-+ score and signature aggrgation.
++ score and signature aggregation.
 + add brute-force extraction to get codes from response as fallback for regex failure. It requires qualified LLMs.
 
 
